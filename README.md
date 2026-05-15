@@ -82,5 +82,12 @@ streamlit run app.py
 
 ---
 
+
+- ## 🌐 Live Demo
+
+👉 [Try the AI Chatbot Here](https://chatbotapp-5pzkhbvymn7dngwtvlj6sk.streamlit.app/)
+
+---
+
 ## 👨‍💻 Author
 **Abhishek Morge**
